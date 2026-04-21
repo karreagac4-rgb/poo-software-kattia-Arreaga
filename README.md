@@ -1,2 +1,2 @@
 # poo-software-kattia-Arreaga
-objetos, variables
+objetos, poo, variables
